@@ -1,0 +1,25 @@
+Topic: Income/GDP/employment of a country which can be affected by many factors like energy/education/Health/Environment/Population/Policy
+
+Questions we need to solve:
+Energy:
+
+	* Consumption: Which kind of energy do rich countries prefer?
+	* Production: Does the production of energy represent a country's level of wealth.
+
+
+Policy:
+
+	* Aid given: Government gives some aid on some specific fields. We may try to find the relationship between government's aid and country's income/GDP/employment.
+	* Income inequality: Would the inequality in income affect the whole country's economy?
+	* Industrial distribution: The effect of industrial distribution on country's economy.
+
+Education:
+
+	* Gender equality: Would the ratio of girls to boys in primary and secondary education affect country's economy?
+	* Literacy rate: Definitely it makes sense.
+	* Schooling cost: It may be an interesting issue to find the difference between rich countries' and poor countries' children's expenditure on schooling.
+
+Environment:
+
+Health:
+
