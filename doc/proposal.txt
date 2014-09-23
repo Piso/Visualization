@@ -8,3 +8,6 @@ ization could help answer them.
 • A list of tasks to be accomplished.
 • Division of labour. What are the tasks to be done by each team member?
 • The tools or approaches that you plan to use to accomplish the intended tasks, and the justifications supporting your choices.
+
+
+EDIT
