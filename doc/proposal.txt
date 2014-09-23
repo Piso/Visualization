@@ -1,0 +1,10 @@
+• Names of students in your group, with student IDs.
+• Project name.
+• Project objectives. What is to be visualized and what is the goal?
+• The data that you would like to visualize. You will need to find the data on your own. You should specify its source and describe its background. Your data should contain at least four attributes. You are also encouraged to use data from multiple data sources instead of one.
+• The target visualization that you would like to achieve.
+• The questions that you would ask about the data set and how you think your visual-
+ization could help answer them.
+• A list of tasks to be accomplished.
+• Division of labour. What are the tasks to be done by each team member?
+• The tools or approaches that you plan to use to accomplish the intended tasks, and the justifications supporting your choices.
