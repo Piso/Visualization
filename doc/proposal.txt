@@ -1,8 +1,27 @@
 • Names of students in your group, with student IDs.
+    -Andrea Pisoni ID# 3035150658
+
 • Project name.
 • Project objectives. What is to be visualized and what is the goal?
+    To observe variations in GDP and employment rate in relation to different economical,
+    technological, cultural and sociological factors. 
+    To gather a deeper insight of what factors are important in determining the GDP and employment rate of a country.
+    To analyse whether recent and current policies proposed by governments  are beneficial to GDP/employment rate and
+    to what respect.
+
+
 • The data that you would like to visualize. You will need to find the data on your own. You should specify its source and describe its background. Your data should contain at least four attributes. You are also encouraged to use data from multiple data sources instead of one.
 • The target visualization that you would like to achieve.
+    Our Visualization should develop in three macro-areas:
+      1)Relational e.g. "Are attribute A and B proportional to each other?, If so, in which way?"
+
+      2)Geographical e.g. "What are the characteristics of Countries with high employment/GDP? What 
+      are the similarities and the differences between these countries?"
+
+      3)Temporal e.g "What are the recent trends in the observed attributes? Do GDP/Employement rate increase/decrease 
+      at a global level in relation with these new trends?"
+
+
 • The questions that you would ask about the data set and how you think your visual-
 ization could help answer them.
 • A list of tasks to be accomplished.
